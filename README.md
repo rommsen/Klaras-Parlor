@@ -12,10 +12,10 @@ Links to Episodes:
 - 04 (Expressions, If/Else, Pipes): https://youtu.be/SZFIJw8EdXg
 - 05 (Lists, List Functions, Lambdas): https://youtu.be/kemkuJmqnIo
 - 06 (Discriminated Unions, Pattern Matching): https://youtu.be/P_l0J4dhUCM
-- 07 (Recursion, Discriminated Unions Part 2): https://youtu.be/ENCa1pwy03o*
-  08 (Records):
-  09 (Currying):
-  10 (Options):
+- 07 (Recursion, Discriminated Unions Part 2): https://youtu.be/ENCa1pwy03o
+- 08 (Records): https://youtu.be/TPZtEYkVcig
+- 09 (Currying): https://youtu.be/-5m8h29pkXw
+- 10 (Options): https://youtu.be/7NS-0qaBNDo
 
 # Contact me
 
